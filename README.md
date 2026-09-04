@@ -5,5 +5,6 @@ A scratch repository for CPSC 275 studio
 ## Team notes
 
 Our plan for the report:
-- read the CSV
+- read the CSV with File.ReadAllLines
+- skip blank lines and comments
 - print one line per station
