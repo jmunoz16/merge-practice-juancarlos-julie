@@ -5,5 +5,5 @@ A scratch repository for CPSC 275 studio
 ## Team notes
 
 Our plan for the report:
-- read the CSV
-- print one line per station
+- read the CVS into a List<string>
+- print one line per station, sorted by name
